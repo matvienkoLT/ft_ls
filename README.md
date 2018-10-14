@@ -1,5 +1,5 @@
 
-![screenshot](/screens/screen.png?raw=true)
+![screenshot](https://github.com/matvienkoLT/ft_ls/blob/master/Screen%20Shot%202018-10-14%20at%2018.17.44.png)
 
 Purpose
 
