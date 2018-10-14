@@ -5,7 +5,7 @@ Purpose
 
 The goal of this project is to discover the system's API, its functions, and the associated data structures, by recoding one of the most used commands among programmers, ls.
 
-Implemented Options
+## Implemented Options:
  man ls
 
 ## Compiling and running
