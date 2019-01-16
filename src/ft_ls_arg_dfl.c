@@ -33,6 +33,7 @@ static void	ft_init_poiter(t_lst_type *lst)
 static void	ft_ls_add_lst(t_list **lst, char *argv)
 {
 	(*lst)->data.flname = ft_strdup(argv);
+	(*lst)->data.patch = ft_strdup(argv);
 	(*lst)->next = create_list();
 	(*lst)->next->behind = (*lst);
 	*(lst) = (*lst)->next;

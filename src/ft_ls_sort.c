@@ -64,7 +64,7 @@ void	ft_ls_sort(t_list *lst, int (*func)(const char *, const char *))
 	t_list	*list_j;
 
 	list_i = lst;
-	if (list_i->next)
+	if (list_i && list_i->next)
 	{
 		while (list_i->next->data.flname)
 		{
